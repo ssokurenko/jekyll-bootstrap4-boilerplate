@@ -13,9 +13,4 @@ markdown: kramdown
 permalink: ./post/:title
 
 exclude:
-  - node_modules
   - README.md
-  - package.json
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE
