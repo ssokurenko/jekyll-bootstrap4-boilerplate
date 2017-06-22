@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "How to add Suppliers"
 date:   2016-09-07 20:13:06 +0200
 categories: jekyll update
 image: random-image-1.jpg
